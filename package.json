@@ -1,4 +1,5 @@
 {
+	"version": "0.1.0",
 	"dependencies": {
 		"@latticexyz/faucet": "2.0.0-next.14"
 	}
